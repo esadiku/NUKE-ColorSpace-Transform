@@ -1,5 +1,7 @@
 # NUKE-ColorSpace-Transform
 For changing the color space in Read nodes in Nuke.<br /><br />
+
+**USAGE:**<br />
 Copy and Paste **ColorSpaceTransform** folder to the default **NUKE** directory<br /><br />
  
 *Linux:* /home/<user name>/.nuke <br />
