@@ -1,5 +1,5 @@
 # NUKE-ColorSpace-Transform
-For changing the color space in Read nodes in Nuke.<br /><br />
+Selected or all Read Nodes Change Colorspace with Add on Menu (Python) Nuke.<br /><br />
 
 **USAGE:**<br />
 Copy and Paste **ColorSpaceTransform** folder to the default **NUKE** directory<br /><br />
